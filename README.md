@@ -2,7 +2,8 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning How to code
 - 💞️ I’m looking to collaborate on Whatever's possible
-- 📫 How to reach me idk
+- 📫 How to reach me Discord is iamjaxx
+
 
 <!---
 IAMJAXXwasTaken/IAMJAXXwasTaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
