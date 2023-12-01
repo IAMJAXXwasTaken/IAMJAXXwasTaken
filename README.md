@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IAMJAXXwasTaken
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning How to code
+- 🌱 I’m currently learning How to code and my A1 toB3
 - 💞️ I’m looking to collaborate on Whatever's possible
 - 📫 How to reach me Discord is iamjaxx
 
